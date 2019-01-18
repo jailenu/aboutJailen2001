@@ -1,8 +1,8 @@
 body {
-background: url(https://cdna.artstation.com/p/assets/images/images/011/280/426/large/said-badry-0.jpg?1528775867) no-repeat center center;
+background: url("https://cdna.artstation.com/p/assets/images/images/011/280/426/large/said-badry-0.jpg?1528775867") no-repeat center center;
   background-size: cover;
 }
 
 body {
-  color:fuchsia
+  color:fuchsia;
 }
